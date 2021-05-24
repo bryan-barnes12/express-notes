@@ -1,6 +1,8 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"How to...",
+        "text":"To use the note taker simply enter a title and some text for your note and click the save icon in the upper right.",
+        "id":"demo"
     }
 ]
+
